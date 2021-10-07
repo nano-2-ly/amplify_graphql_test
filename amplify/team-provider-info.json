@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-graphqldynamochat-dev-175350-authRole",
+      "UnauthRoleArn": "arn:aws:iam::807727879369:role/amplify-graphqldynamochat-dev-175350-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::807727879369:role/amplify-graphqldynamochat-dev-175350-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-graphqldynamochat-dev-175350-deployment",
+      "UnauthRoleName": "amplify-graphqldynamochat-dev-175350-unauthRole",
+      "StackName": "amplify-graphqldynamochat-dev-175350",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:807727879369:stack/amplify-graphqldynamochat-dev-175350/19105020-274c-11ec-9aac-02cda0ab1470",
+      "AmplifyAppId": "d37gf6wwmpbees"
+    }
+  }
+}
